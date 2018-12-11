@@ -14,9 +14,9 @@ public class App
         
         if (temp != null && isClean(temp)) {
             if(temp.equals("literal")){
-            	//System.out.println( "Hello World!" );
+            	System.out.println( "Hello World!" );
             } else {
-            	//System.out.println( "Goodbye World!" );
+            	System.out.println( "Goodbye World!" );
             }
         }
         
