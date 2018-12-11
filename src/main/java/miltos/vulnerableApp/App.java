@@ -8,6 +8,13 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+        
+        
+        String temp = "literal";
+        if(temp.equals("literal")){
+        	System.out.println( "Hello World!" );
+        } else {
+        	System.out.println( "Goodbye World!" );
+        }
     }
 }
