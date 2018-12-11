@@ -19,6 +19,10 @@ public class App
             	System.out.println( "Goodbye World!" );
             }
         }
+        
+        AnotherClass aClass = new AnotherClass();
+        aClass.method(temp);
+        aClass.method2(temp);
 
     }
     
