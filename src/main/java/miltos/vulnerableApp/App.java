@@ -23,6 +23,10 @@ public class App
         AnotherClass aClass = new AnotherClass();
         aClass.method(temp);
         aClass.method2(temp);
+        
+        ExtraClass eClass = new ExtraClass();
+        eClass.method(temp);
+        eClass.method2(temp);
 
     }
     
